@@ -1,0 +1,14 @@
+{
+	"category" : "CenteredIntervalTree",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Default" ],
+	"commentStamp" : "PaulDeBruicker 10/14/2011 08:54",
+	"instvars" : [
+		"emptyCollection" ],
+	"name" : "CenteredIntervalTreeSentinelNode",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

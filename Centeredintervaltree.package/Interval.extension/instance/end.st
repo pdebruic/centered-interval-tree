@@ -1,0 +1,3 @@
+*centeredintervaltree
+end
+	^self last

@@ -1,0 +1,17 @@
+{
+	"category" : "CenteredIntervalTree",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"timespans",
+		"pointInTime",
+		"timespan",
+		"intervalDatabase" ],
+	"name" : "CenteredIntervalTreeTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

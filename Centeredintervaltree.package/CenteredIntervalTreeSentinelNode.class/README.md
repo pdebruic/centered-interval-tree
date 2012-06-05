@@ -1,0 +1,1 @@
+This is just an empty node that responds to the same methods as CenteredIntervalTree but terminates the recursive process of walking the tree branches.  

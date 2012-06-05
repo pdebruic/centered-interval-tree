@@ -1,0 +1,3 @@
+testing
+intervalsThatIncludeTimespan: aTimespan 
+	^emptyCollection 
